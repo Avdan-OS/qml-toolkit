@@ -2,10 +2,10 @@
 
 AvdanOS UI Toolkit made with Rust using the iced Library.
 
-## Welp I can't get it running at first compile!
+## Dependencies
 
-Yeah, me too... Before compiling make sure you have these two packages installed:
-`cmake` & `fontconfig` (oh, and obviously don't forget Rust ;)
+Before compiling make sure you have these two packages installed:
+`cmake` & `fontconfig`
 
 On Ubuntu:
 
