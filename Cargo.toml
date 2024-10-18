@@ -11,4 +11,4 @@ edition = "2021"
 
 [dependencies]
 
-iced = "0.9.0"
+iced = "0.13.1"
